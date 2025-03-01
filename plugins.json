@@ -1,0 +1,21 @@
+[
+    {
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Korduene_Logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/firmanjml/enorme",
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Firman Jamal"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "EnormeProvider",
+        "description": "Enorme TV",
+        "url": "https://github.com/firmanjml/enorme/raw/refs/heads/main/builds/EnormeProvider.cs3",
+        "name": "EnormeProvider"
+    }
+]
